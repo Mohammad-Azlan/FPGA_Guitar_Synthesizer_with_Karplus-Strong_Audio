@@ -93,3 +93,14 @@ This repository includes:
   - Volume control
 - Polyphonic playback (multiple strings simultaneously)
 - MIDI input support
+
+
+---
+
+## 👥 Team
+
+**Mohammad Azlan**  
+📧 mohammad.azlan@mail.utoronto.ca  
+
+**Kabir Jain**  
+📧 kabir.jain@mail.utoronto.ca  
